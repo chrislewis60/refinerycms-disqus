@@ -6,7 +6,7 @@ This version of `refinerycms-disqus` supports Rails 4.0.x.
 
 ## Requirements
 
-Refinery CMS version 2.718.dev or above.
+Refinery CMS version 3.0.2 or above.
 Account at [Disqus](http://disqus.com/).
 
 ## Install
